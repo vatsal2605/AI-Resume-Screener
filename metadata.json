@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Screener",
+  "description": "Evaluate and rank multiple resumes against a job description using AI.",
+  "requestFramePermissions": []
+}
